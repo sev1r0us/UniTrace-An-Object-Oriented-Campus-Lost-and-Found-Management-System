@@ -10,3 +10,4 @@ public abstract class User {
     public String getName() { return name; }
     public abstract String getRole();
 }
+
